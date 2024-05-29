@@ -1,0 +1,30 @@
+[submodule "2021-2022-spring-cpp-project"]
+	path = 2021-2022-spring-cpp-project
+	url = https://github.com/blonded04/nearsoccer
+[submodule "2023-2024-spring-static-program-analysis"]
+	path = 2023-2024-spring-static-program-analysis
+	url = git@github.com:blonded04/static-program-analysis-supplementary.git
+[submodule "2023-2024-spring-semantics-of-programming-languages"]
+	path = 2023-2024-spring-semantics-of-programming-languages
+	url = git@github.com:blonded04/coq-supplementary.git
+[submodule "2023-2024-spring-logical-and-relational-programming"]
+	path = 2023-2024-spring-logical-and-relational-programming
+	url = git@github.com:blonded04/lrp-supplementary.git
+[submodule "2023-2024-spring-spbu-system-software-hackathon"]
+	path = 2023-2024-spring-spbu-system-software-hackathon
+	url = git@github.com:blonded04/futamura.git
+[submodule "2023-2024-fall-introduction-to-llvm"]
+	path = 2023-2024-fall-introduction-to-llvm
+	url = git@github.com:blonded04/llvm-course-2023.git
+[submodule "2023-2024-fall-compilers"]
+	path = 2023-2024-fall-compilers
+	url = git@github.com:blonded04/compilers-supplementary.git
+[submodule "2023-2024-fall-database-systems"]
+	path = 2023-2024-fall-database-systems
+	url = git@github.com:blonded04/DBProject.git
+[submodule "2022-2023-fall-formal-languages"]
+	path = 2022-2023-fall-formal-languages
+	url = git@github.com:blonded04/fl-project.git
+[submodule "2021-2022-fall-programing-basics"]
+	path = 2021-2022-fall-programing-basics
+	url = git@github.com:blonded04/musicGenerationPython.git
