@@ -28,3 +28,6 @@
 [submodule "2021-2022-fall-programing-basics"]
 	path = 2021-2022-fall-programing-basics
 	url = git@github.com:blonded04/musicGenerationPython.git
+[submodule "2022-2023-spring-java"]
+	path = 2022-2023-spring-java
+	url = https://gitlab.com/blonded04/hse-java-1-2023
