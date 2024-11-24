@@ -31,3 +31,9 @@
 [submodule "2022-2023-spring-java"]
 	path = 2022-2023-spring-java
 	url = https://gitlab.com/blonded04/hse-java-1-2023
+[submodule "2024-2025-fall-gpgpu"]
+	path = 2024-2025-fall-gpgpu
+	url = https://github.com/blonded04/gpgpu-supplementary
+[submodule "2024-2025-fall-advanced-compiler-construction"]
+	path = 2024-2025-fall-advanced-compiler-construction
+	url = https://github.com/blonded04/advanced-compiler-construction-supplementary
